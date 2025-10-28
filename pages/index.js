@@ -1,5 +1,5 @@
 function Home() {
-  const phrase = "Te amo amor <3";
+  const phrase = "A culpa é do Breyner";
   return <h1>{phrase}</h1>;
 }
 
